@@ -7,4 +7,4 @@ Technologies: Html Css
 Preview:
 
 <hr>
-<img alt="Preview" src="https://i.ibb.co/Dt7nFyQ/Basic-Email-Form.png" />
+<a href="https://ajhernandeza.github.io/Basic_email_form/index.html" target="_blank"> <img alt="Preview" src="https://i.ibb.co/Dt7nFyQ/Basic-Email-Form.png" />
